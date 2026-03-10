@@ -1,0 +1,7 @@
+metric,value
+Total,500.0
+Attacks,151.0
+Benigns,349.0
+ASR (%),0.0
+FPR (%),0.5730659025787965
+FNR (%),0.0
