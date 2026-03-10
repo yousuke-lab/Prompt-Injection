@@ -11,3 +11,8 @@ utput Validationの三層防御を実装し、その突破率、偽陽性率な�
 考察および今後の展望
 今後は日本語の攻撃プロンプトが完成し次第、本格的に英語との比較をしていき、時間が許す限り日本語の方言や英語との混合を試みたり、更に工夫し
 ていきます。
+
+LLMGuardの導入
+pip install llm-guard
+Guardrails AIの導入
+pip install guardrails-ai
